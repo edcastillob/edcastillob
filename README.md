@@ -3,7 +3,7 @@
 
    <h3 align="center">Hola!  &#128079; Bienvenido a mi repositorio...</h3>
    <hr />
-   <h4 align="center"> Soy un desarrollador Full Stack de Venezuela, 	&#128187; Ingeniero de Sistemas de profesión &#127891;, apasionado al mundo de la tecnología y me  he dedicado en los ultimos años al desarrollo de sistemas y aplicaciones	&#129333;, te invito a seguirme en mis redes sociales y hacer que nuestra comunidad crezca saludos	&#128521;!!!</h4>
+   <h3 align="center"> Soy un desarrollador Full Stack de Venezuela, 	&#128187; Ingeniero de Sistemas de profesión &#127891;, apasionado al mundo de la tecnología y me  he dedicado en los ultimos años al desarrollo de sistemas y aplicaciones	&#129333;, te invito a seguirme en mis redes sociales y hacer que nuestra comunidad crezca saludos	&#128521;!!!</h3>
 </div>
 <hr />
 <h3>&#129333;&#128187;&nbsp;<b>Mi actualidad:</b></h3>
