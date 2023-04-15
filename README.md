@@ -8,7 +8,7 @@
 <hr />
 <h3>&#129333;&#128187;&nbsp;<b>Mi actualidad:</b></h3>
     <ul>
-        <li>Actualmente estudiando en tecnologías en el área de desarrollo </li>
+        <li>Actualmente estudiando tecnologías en el área de desarrollo </li>
         <li>En mis ratos libres trabajo en la creación mi sitio web</li>
      </ul>
 
