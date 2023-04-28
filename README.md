@@ -30,11 +30,7 @@
 </div>
 
 <hr />
-<h3>&#128200;&nbsp;<b>Estadisticas</b></h3>
-<div align="center">   
-<img src="https://github-readme-stats.vercel.app/api?username=edcastillob&show_icons=true&theme=transparent" alt="Estadisticas">
- <hr />  
-</div>
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcastillob&hide_progress=true)](https://github.com/edcastillob/github-readme-stats">
    
