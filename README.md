@@ -42,4 +42,16 @@
   <img title="Fireworks" width="45" height="45" src="https://raw.githubusercontent.com/edcastillob/My_Firts_Portafolio/0be69f5962cc338cbb2cc67d4fd7e0172ae68baf/assets/icons/fireworks.png" alt="fireworks">
   <img title="Postgresql" width="45" height="45" src="https://raw.githubusercontent.com/edcastillob/My_Firts_Portafolio/0be69f5962cc338cbb2cc67d4fd7e0172ae68baf/assets/icons/Postgresql.png" alt="Postgresql">
   <img title="Mysql" width="45" height="45" src="https://raw.githubusercontent.com/edcastillob/My_Firts_Portafolio/0be69f5962cc338cbb2cc67d4fd7e0172ae68baf/assets/icons/mysql.svg" alt="mysql">
+<img title="Cypress" width="45" height="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress">
+<img title="Git" width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
+<img title="Jest" width="45" height="45" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest">
+
+<img title="MySql" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql">
+<img title="Postman" width="45" height="45" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman">
+<img title="NodeJs" width="45" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs">
+  
 </div>
+
+-----
+
+  
