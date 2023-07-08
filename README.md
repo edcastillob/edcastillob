@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJiYzI2ZWQzNWUwZmE5MGIyNzgyNGY4M2E2YTU5YmEzNmFhNGVjYyZjdD1z/jVa7vNw3Mic21PTnWM/giphy.gif" width="250">
+  <img src="https://raw.githubusercontent.com/edcastillob/Countries-ProyectoIndividual/main/client/src/assets/ec.png" width="120">
 
   <h3 align="center">¡Bienvenido a mi repositorio! 👋</h3>
   <hr />
