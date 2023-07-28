@@ -25,11 +25,8 @@
   <li>Actualmente estudiando tecnologías en el área de desarrollo.</li>
   <li>En mis ratos libres trabajo en la creación de mi sitio web.</li>
 </ul>
-
 <hr />
-
 <h3 align="center">Lenguajes y herramientas 💻</h3>
-
 <div align="center">
   <img title="Html" width="45" height="45" src="https://raw.githubusercontent.com/edcastillob/My_Firts_Portafolio/0be69f5962cc338cbb2cc67d4fd7e0172ae68baf/assets/icons/html.svg" alt="html">
   <img title="Css" width="45" height="45" src="https://raw.githubusercontent.com/edcastillob/My_Firts_Portafolio/0be69f5962cc338cbb2cc67d4fd7e0172ae68baf/assets/icons/css.svg" alt="css">
