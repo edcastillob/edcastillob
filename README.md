@@ -11,9 +11,7 @@
 
   <p align="center">En mi tiempo libre, me gusta compartir mi conocimiento y experiencia con otros desarrolladores y entusiastas de la tecnología. Te invito a seguirme en mis redes sociales, donde comparto contenido relacionado con el desarrollo web y tecnológico. Juntos, podemos hacer que nuestra comunidad crezca y aprender unos de otros.</p>
 
-  <p align="center">En mi perfil de GitHub, encontrarás una muestra de mis proyectos y contribuciones al campo del desarrollo web. Mi objetivo principal es crear aplicaciones web de alta calidad, eficientes y atractivas, que proporcionen una experiencia excepcional al usuario y generen un impacto positivo en el éxito del negocio.</p>
-
-  <p align="center">Si estás interesado en colaborar en proyectos de desarrollo web y buscas un Desarrollador Full-Stack comprometido, apasionado y orientado a resultados, no dudes en contactarme. Estoy emocionado de explorar oportunidades de colaboración mutua y contribuir al crecimiento de proyectos con soluciones innovadoras.</p>
+ 
 
   <h3 align="center">¡Saludos y espero conectarme contigo pronto! 😉</h3>
 </div>
