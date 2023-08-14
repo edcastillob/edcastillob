@@ -1,19 +1,17 @@
-<div align="center">
+<div align="justify">
   <img src="https://raw.githubusercontent.com/edcastillob/Countries-ProyectoIndividual/main/client/src/assets/ec.png" width="120">
 
   <h3 align="center">¡Bienvenido a mi repositorio! 👋</h3>
   <hr />
-  <p align="center">¡Hola! Soy Edwar, un Desarrollador Full-Stack con amplia experiencia en el campo. Originario de Venezuela, soy un 💻 Ingeniero de Sistemas de profesión 🎓 y me apasiona el mundo de la tecnología. En los últimos años, me he dedicado al desarrollo de sistemas y aplicaciones, y estoy constantemente buscando seguir aprendiendo y mantenerme al día con las últimas tendencias tecnológicas.</p>
+  <p>¡Hola! Soy Edwar, un Desarrollador Full-Stack con amplia experiencia en el campo. Originario de Venezuela, soy un 💻 Ingeniero de Sistemas de profesión 🎓 y me apasiona el mundo de la tecnología. En los últimos años, me he dedicado al desarrollo de sistemas y aplicaciones, y estoy constantemente buscando seguir aprendiendo y mantenerme al día con las últimas tendencias tecnológicas.</p>
 
-  <p align="center">Me considero altamente creativo, curioso y organizado, y siempre tengo una sólida iniciativa y un enfoque colaborativo hacia el trabajo en equipo. Creo firmemente en la importancia de estar al tanto de las últimas innovaciones en el ámbito educativo y cómo se pueden aplicar en el desarrollo de soluciones tecnológicas.</p>
+  <p>Me considero altamente creativo, curioso y organizado, y siempre tengo una sólida iniciativa y un enfoque colaborativo hacia el trabajo en equipo. Creo firmemente en la importancia de estar al tanto de las últimas innovaciones en el ámbito educativo y cómo se pueden aplicar en el desarrollo de soluciones tecnológicas.</p>
 
-  <p align="center">Como Desarrollador Full-Stack, tengo un amplio dominio de tecnologías clave como HTML, CSS y JavaScript, así como frameworks como React.js y Node.js. Además, cuento con experiencia en el uso de Sequelize y Express para desarrollar aplicaciones web de alta calidad. Estoy constantemente buscando oportunidades para mejorar mis habilidades y conocimientos, especialmente en JavaScript, React.js, Node.js, Sequelize y Express.</p>
+  <p>Como Desarrollador Full-Stack, tengo un amplio dominio de tecnologías clave como HTML, CSS y JavaScript, así como frameworks como React.js y Node.js. Además, cuento con experiencia en el uso de Sequelize y Express para desarrollar aplicaciones web de alta calidad. Estoy constantemente buscando oportunidades para mejorar mis habilidades y conocimientos, especialmente en JavaScript, React.js, Node.js, Sequelize y Express.</p>
 
-  <p align="center">En mi tiempo libre, me gusta compartir mi conocimiento y experiencia con otros desarrolladores y entusiastas de la tecnología. Te invito a seguirme en mis redes sociales, donde comparto contenido relacionado con el desarrollo web y tecnológico. Juntos, podemos hacer que nuestra comunidad crezca y aprender unos de otros.</p>
+  <p>En mi tiempo libre, me gusta compartir mi conocimiento y experiencia con otros desarrolladores y entusiastas de la tecnología. Te invito a seguirme en mis redes sociales, donde comparto contenido relacionado con el desarrollo web y tecnológico. Juntos, podemos hacer que nuestra comunidad crezca y aprender unos de otros.</p>
 
- 
-
-  <h3 align="center">¡Saludos y espero conectarme contigo pronto! 😉</h3>
+  <h3>¡Saludos y espero conectarme contigo pronto! 😉</h3>
 </div>
 
 <hr />
