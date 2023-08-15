@@ -3,17 +3,15 @@
 </div>
 
 <div align="justify">
-  <h3 align="center">¡Bienvenido a mi repositorio! 👋</h3>
+  <h3 align="center">¡Bienvenido a mi perfil! 👋</h3>
   <hr />
-  <p>¡Hola! Soy Edwar, un Desarrollador Full-Stack con amplia experiencia en el campo. Originario de Venezuela, soy un 💻 Ingeniero de Sistemas de profesión 🎓 y me apasiona el mundo de la tecnología. En los últimos años, me he dedicado al desarrollo de sistemas y aplicaciones, y estoy constantemente buscando seguir aprendiendo y mantenerme al día con las últimas tendencias tecnológicas.</p>
+  <p>Soy Edwar, un Desarrollador Full-Stack apasionado por la tecnología. Con experiencia en sistemas y aplicaciones, he centrado mis esfuerzos en aprender y aplicar las últimas tendencias. Originario de Venezuela y con formación en Ingeniería de Sistemas, busco constantemente mejorar mis habilidades en tecnologías como HTML, CSS, JavaScript, React.js y Node.js.</p>
 
-  <p>Me considero altamente creativo, curioso y organizado, y siempre tengo una sólida iniciativa y un enfoque colaborativo hacia el trabajo en equipo. Creo firmemente en la importancia de estar al tanto de las últimas innovaciones en el ámbito educativo y cómo se pueden aplicar en el desarrollo de soluciones tecnológicas.</p>
+  <p>La creatividad, la curiosidad y la organización definen mi enfoque de trabajo en equipo. Valoro la innovación educativa y su impacto en las soluciones tecnológicas. Mi dominio de herramientas como Sequelize y Express me permite desarrollar aplicaciones web de calidad. Siempre en busca de nuevas oportunidades para crecer, especialmente en JavaScript, React.js y Node.js.</p>
 
-  <p>Como Desarrollador Full-Stack, tengo un amplio dominio de tecnologías clave como HTML, CSS y JavaScript, así como frameworks como React.js y Node.js. Además, cuento con experiencia en el uso de Sequelize y Express para desarrollar aplicaciones web de alta calidad. Estoy constantemente buscando oportunidades para mejorar mis habilidades y conocimientos, especialmente en JavaScript, React.js, Node.js, Sequelize y Express.</p>
+  <p>Compartir conocimientos es mi pasión. Te invito a seguirme en redes sociales, donde abordo temas de desarrollo web y tecnología. Juntos, podemos impulsar el crecimiento de nuestra comunidad.</p>
 
-  <p>En mi tiempo libre, me gusta compartir mi conocimiento y experiencia con otros desarrolladores y entusiastas de la tecnología. Te invito a seguirme en mis redes sociales, donde comparto contenido relacionado con el desarrollo web y tecnológico. Juntos, podemos hacer que nuestra comunidad crezca y aprender unos de otros.</p>
-
-  <h3>¡Saludos y espero conectarme contigo pronto! 😉</h3>
+  <h3>¡Espero conectar contigo pronto! 😉</h3>
 </div>
 
 <hr />
