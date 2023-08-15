@@ -1,4 +1,4 @@
-<div align="justify">
+<div align="center">
   <img src="https://raw.githubusercontent.com/edcastillob/Countries-ProyectoIndividual/main/client/src/assets/ec.png" width="120">
 
   <h3 align="center">¡Bienvenido a mi repositorio! 👋</h3>
