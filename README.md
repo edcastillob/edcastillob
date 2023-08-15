@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/edcastillob/Countries-ProyectoIndividual/main/client/src/assets/ec.png" width="120">
 
   <h3 align="center">¡Bienvenido a mi repositorio! 👋</h3>
+  </div>
   <hr />
+  <div align="justify">
   <p>¡Hola! Soy Edwar, un Desarrollador Full-Stack con amplia experiencia en el campo. Originario de Venezuela, soy un 💻 Ingeniero de Sistemas de profesión 🎓 y me apasiona el mundo de la tecnología. En los últimos años, me he dedicado al desarrollo de sistemas y aplicaciones, y estoy constantemente buscando seguir aprendiendo y mantenerme al día con las últimas tendencias tecnológicas.</p>
 
   <p>Me considero altamente creativo, curioso y organizado, y siempre tengo una sólida iniciativa y un enfoque colaborativo hacia el trabajo en equipo. Creo firmemente en la importancia de estar al tanto de las últimas innovaciones en el ámbito educativo y cómo se pueden aplicar en el desarrollo de soluciones tecnológicas.</p>
