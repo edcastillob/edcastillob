@@ -52,9 +52,10 @@
 
 ## Contáctame
 
-- [![Portafolio](http://3.bp.blogspot.com/-QKI3jaDBjww/VUaJSdCgvWI/AAAAAAAADz4/vBZ8Y4DYgFk/s1600/image_gallery.png)](https://edwarcastillo.netlify.app/) Portafolio
-- [![WhatsApp](https://raw.githubusercontent.com/edcastillob/SurveyApp/main/client/src/assets/whatsaap.png)](https://wa.me/584145994073) WhatsApp
-- [![Email](https://raw.githubusercontent.com/edcastillob/SurveyApp/main/client/src/assets/email.png)](mailto:edwar.castillo@gmail.com) Email
+- [![Portafolio](http://3.bp.blogspot.com/-QKI3jaDBjww/VUaJSdCgvWI/AAAAAAAADz4/vBZ8Y4DYgFk/s1600/image_gallery.png | width=32)](https://edwarcastillo.netlify.app/) Portafolio
+- [![WhatsApp](https://raw.githubusercontent.com/edcastillob/SurveyApp/main/client/src/assets/whatsaap.png | width=32)](https://wa.me/584145994073) WhatsApp
+- [![Email](https://raw.githubusercontent.com/edcastillob/SurveyApp/main/client/src/assets/email.png | width=32)](mailto:edwar.castillo@gmail.com) Email
+
 
 
 
