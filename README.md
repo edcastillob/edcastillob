@@ -50,7 +50,7 @@
 
 -----
 
-<div align="center">
+<div>
   <h2>Contáctame</h2>
   <ul style="list-style-type: none; padding: 0;">
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -67,5 +67,6 @@
     </li>
   </ul>
 </div>
+
 
 
