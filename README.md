@@ -50,23 +50,12 @@
 
 -----
 
-<div>
-  <h2>Contáctame</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="http://3.bp.blogspot.com/-QKI3jaDBjww/VUaJSdCgvWI/AAAAAAAADz4/vBZ8Y4DYgFk/s1600/image_gallery.png" alt="Portafolio" width="32" style="margin-right: 10px;">
-      <a href="https://edwarcastillo.netlify.app/" target="_blank" rel="noopener noreferrer">Portafolio</a>
-    </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://raw.githubusercontent.com/edcastillob/SurveyApp/main/client/src/assets/whatsaap.png" alt="WhatsApp" width="32" style="margin-right: 10px;">
-      <a href="https://wa.me/584145994073" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-    </li>
-    <li style="display: flex; align-items: center;">
-      <img src="https://raw.githubusercontent.com/edcastillob/SurveyApp/main/client/src/assets/email.png" alt="Email" width="32" style="margin-right: 10px;">
-      <a href="mailto:edwar.castillo@gmail.com">Email</a>
-    </li>
-  </ul>
-</div>
+## Contáctame
+
+- [![Portafolio](http://3.bp.blogspot.com/-QKI3jaDBjww/VUaJSdCgvWI/AAAAAAAADz4/vBZ8Y4DYgFk/s1600/image_gallery.png)](https://edwarcastillo.netlify.app/) Portafolio
+- [![WhatsApp](https://raw.githubusercontent.com/edcastillob/SurveyApp/main/client/src/assets/whatsaap.png)](https://wa.me/584145994073) WhatsApp
+- [![Email](https://raw.githubusercontent.com/edcastillob/SurveyApp/main/client/src/assets/email.png)](mailto:edwar.castillo@gmail.com) Email
+
 
 
 
