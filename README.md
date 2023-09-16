@@ -2,7 +2,7 @@
 
   
 <div align="center">
-  <img src="https://raw.githubusercontent.com/edcastillob/Countries-ProyectoIndividual/main/client/src/assets/ec.png" width="120">
+  <img src="https://raw.githubusercontent.com/edcastillob/Countries-ProyectoIndividual/main/client/src/assets/ec.png" width="120"> 
 </div>
 
 <div align="justify">
@@ -50,7 +50,7 @@
 
 -----
 
-### Contáctame
+### Contáctame...
 
 <ul>
   <li>
