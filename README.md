@@ -21,8 +21,7 @@
 
 <h3 align="center">Mi actualidad 🔍</h3>
 <ul>
-  <li>Actualmente estudiando tecnologías en el área de desarrollo.</li>
-  <li>En mis ratos libres trabajo en la creación de mi sitio web.</li>
+  <li>Actualmente, estoy estudiando tecnologías en el área de desarrollo, incluyendo TypeScript y explorando servicios de Google.</li>
 </ul>
 <hr />
 <h3 align="center">Lenguajes y herramientas 💻</h3>
