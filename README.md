@@ -7,7 +7,7 @@
   <hr />
   <p>Soy Edwar, un Desarrollador Full-Stack apasionado por la tecnología. Con experiencia en sistemas y aplicaciones, he centrado mis esfuerzos en aprender y aplicar las últimas tendencias. Originario de Venezuela y con formación en Ingeniería de Sistemas, busco constantemente mejorar mis habilidades en tecnologías como HTML, CSS, JavaScript, React.js, Node.js, Next.Js, Nest.Js, Angular.</p>
 
-  <p>La creatividad, la curiosidad y la organización definen mi enfoque de trabajo en equipo. Valoro la innovación educativa y su impacto en las soluciones tecnológicas. Mi dominio de herramientas como Sequelize y Express me permite desarrollar aplicaciones web de calidad. Siempre en busca de nuevas oportunidades para crecer</p>
+  <p>La creatividad, la curiosidad y la organización definen mi enfoque de trabajo en equipo. Valoro la innovación educativa y su impacto en las soluciones tecnológicas. Mi dominio de herramientas en todas las capas de desarrollo me permiten desarrollar aplicaciones web de calidad. Siempre en busca de nuevas oportunidades para crecer</p>
 
   <p>Compartir conocimientos es mi pasión. Te invito a seguirme en redes sociales, donde abordo temas de desarrollo web y tecnología. Juntos, podemos impulsar el crecimiento de nuestra comunidad.</p>
 
