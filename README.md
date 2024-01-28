@@ -6,7 +6,7 @@
 </div>
 
 <div align="justify">
-  <h3 align="center">¡Bienvenido a mi perfil! 👋</h3>
+  <h3 align="center">¡Hola, Bienvenido! 👋</h3>
   <hr />
   <p>Soy Edwar, un Desarrollador Full-Stack apasionado por la tecnología. Con experiencia en sistemas y aplicaciones, he centrado mis esfuerzos en aprender y aplicar las últimas tendencias. Originario de Venezuela y con formación en Ingeniería de Sistemas, busco constantemente mejorar mis habilidades en tecnologías como HTML, CSS, JavaScript, React.js, Node.js, Next.Js, Nest.Js, Angular.</p>
 
@@ -17,12 +17,6 @@
   <h3>¡Espero conectar contigo pronto! 😉</h3>
 </div>
 
-<hr />
-
-<h3 align="center">Mi actualidad 🔍</h3>
-<ul>
-  <li>Actualmente, estoy estudiando tecnologías en el área de desarrollo, incluyendo TypeScript y explorando servicios de Google.</li>
-</ul>
 <hr />
 <h3 align="center">Lenguajes y herramientas 💻</h3>
 <div align="center">
